@@ -3,4 +3,4 @@ A social media app which connect friends with each other and also stores their a
 
 ## Guide
 npm install
-node app
+&& node app
